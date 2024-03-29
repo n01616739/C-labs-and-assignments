@@ -1,0 +1,8 @@
+1,Sid,Nambiar,25,female,C#,90
+2,John,Mathew,23,male,Python,85
+4,Sneha,Jose,25,female,C#,90
+5,John,Honai,23,male,Python,85
+7,Uriel,Vortia,25,male,C#,90
+8,John,Mathew,23,males,Python,85
+9,Ivin,Jose,25,male,C#,90
+10,Kushbu,Mathew,23,male,Python,85
